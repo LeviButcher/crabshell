@@ -1,5 +1,5 @@
 [package]
-name = "rust-shell"
+name = "crabshell"
 version = "0.1.0"
 authors = ["Levi Butcher <levibutcher355@gmail.com>"]
 edition = "2018"
