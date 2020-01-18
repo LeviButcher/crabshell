@@ -1,6 +1,10 @@
 {
     "cSpell.words": [
+        "chdir",
+        "commandcall",
+        "crabshell",
         "execvp",
-        "unistd"
+        "unistd",
+        "waitpid"
     ]
 }
